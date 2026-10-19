@@ -1,2 +1,0 @@
-﻿// Rules Provider
-// TODO: implement

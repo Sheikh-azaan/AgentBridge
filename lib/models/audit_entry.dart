@@ -1,2 +1,0 @@
-﻿// AuditEntry model
-// TODO: implement

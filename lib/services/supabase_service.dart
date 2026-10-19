@@ -1,2 +1,0 @@
-﻿// Supabase Service
-// TODO: implement

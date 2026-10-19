@@ -1,2 +1,0 @@
-﻿// Auth Service
-// TODO: implement
